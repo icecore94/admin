@@ -8,9 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "unclead\\multipleinput\\examples\\": "examples/",
-            "unclead\\multipleinput\\": "src/",
-            "unclead\\multipleinput\\tests\\": "tests/"
+            "icecore\\oneuiAdmin\\": "src/"
         }
     }
 }
