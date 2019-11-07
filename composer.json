@@ -5,5 +5,12 @@
         "yii2",
         "oneui",
         "快速搭建后台"
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "unclead\\multipleinput\\examples\\": "examples/",
+            "unclead\\multipleinput\\": "src/",
+            "unclead\\multipleinput\\tests\\": "tests/"
+        }
+    }
 }
