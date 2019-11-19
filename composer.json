@@ -1,14 +1,14 @@
 {
     "name": "icecore94/admin",
-    "description": "在yii2版本中快速搭建基于oneui的后台模块",
+    "description": "在yii2版本中快速搭建基于adminlte的后台模块",
     "keywords": [
         "yii2",
-        "oneui",
+        "adminlte",
         "快速搭建后台"
     ],
     "autoload": {
         "psr-4": {
-            "icecore94\\oneuiAdmin\\": "src/"
+            "icecore94\\admin\\": "src/"
         }
     }
 }
