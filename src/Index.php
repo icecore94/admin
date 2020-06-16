@@ -9,6 +9,6 @@ class Index {
 
 
     public function test(){
-        echo 'test';
+        echo 'test111';
     }
 }
